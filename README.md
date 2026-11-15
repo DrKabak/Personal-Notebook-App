@@ -4,7 +4,6 @@ A lightweight, web-based personal note-taking application designed to manage dai
 
 ## Features
 * **CRUD Operations:** Create, read, update, and delete personal notes seamlessly.
-* **Data Persistence:** Notes are securely saved and retrieved from a [Veritabanı Türü, örn: MySQL / Firebase / Local Database] database.
 * **Responsive UI:** Clean and intuitive user interface built with semantic HTML and plain CSS.
 * **Dynamic Rendering:** Real-time UI updates using Vanilla JavaScript without relying on external libraries.
 
@@ -13,7 +12,6 @@ A lightweight, web-based personal note-taking application designed to manage dai
 * **Database / Backend:** [Kullandığın veritabanı veya API teknolojisi, örn: PHP & MySQL / Node.js / LocalStorage]
 
 ## Live Demo
-You can test the application live here: ## 🌐 Live Demo
 You can test the application live here: https://drkabak.github.io/Personal-Notebook-App/
 
 ## Setup & Installation
