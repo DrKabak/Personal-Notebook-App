@@ -11,7 +11,11 @@ A lightweight, web-based personal note-taking application designed to manage dai
 ## Tech Stack
 * **Frontend:** HTML5, CSS3, Vanilla JavaScript (ES6+)
 * **Database / Backend:** [Kullandığın veritabanı veya API teknolojisi, örn: PHP & MySQL / Node.js / LocalStorage]
-* 
+
+## Live Demo
+You can test the application live here: ## 🌐 Live Demo
+You can test the application live here: https://drkabak.github.io/Personal-Notebook-App/
+
 ## Setup & Installation
 To run this project locally:
 
